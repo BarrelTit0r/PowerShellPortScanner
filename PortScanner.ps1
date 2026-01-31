@@ -1,3 +1,5 @@
+# Author: ChatGPT with modifications by BarrelTit0r
+
 param (
     [Parameter(Mandatory = $true)]
     [string]$TargetIP
